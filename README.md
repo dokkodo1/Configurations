@@ -40,7 +40,7 @@ Install SWS and ReaPack:
 - Install SWS from the executable you downloaded previously. You don't need to read anything, just install to default location.
 - Copy or drag “reaper_reapack-x86_64.dylib” file into …/REAPER/UserPlugins/
 
-Download ReaPack libraries (there’s a possibly useful screenshot for this):
+Download ReaPack libraries:
 - Open REAPER
 - Extensions > ReaPack > Manage Repositories (this menu might have opened when you started the program, in which case you can still follow these steps) > Options > Install new packages when synchronising
 - Apply
@@ -61,7 +61,7 @@ Install SWS and ReaPack:
 - Install SWS from the executable you downloaded previously. You don't need to read anything, just install to default location.
 - Copy or drag “reaper_reapack-x64.dll” file into …/REAPER/UserPlugins/
 
-Download ReaPack libraries (there’s a possibly useful screenshot for this):
+Download ReaPack libraries:
 - Open REAPER
 - If there's a "Manage Repositories" window that pops up, just follow the steps anyway.
 - Extensions > ReaPack > Manage Repositories > Options > Install new packages when synchronising
@@ -75,7 +75,7 @@ Download ReaPack libraries (there’s a possibly useful screenshot for this):
 —CONFIGURATIONS—
 
 
-Import Config (there’s a possibly useful screenshot for this):
+Import Config:
 - REAPER ("Options" on Windows) > Preferences… > General > Import configuration… (default shortcut for preferences is cmd+, [comma] or ctrl+p)
 - Import the “HPL REAPER Config Full.ReaperConfigZip” file (Don’t unzip)
 - Apply
@@ -114,7 +114,7 @@ Multiple paths are separated by semicolon ie
 ^ no spaces between different paths
 - Do the same for LV2/CLAP though I doubt you have LV2 or CLAP plugs.
 
-DARK MODE!!!!! ((there’s a possibly useful screenshot for this) Only available if your MacOS default is set to dark mode):
+DARK MODE!!!!! (Only available if your MacOS default is set to dark mode):
 - REAPER > Preferences > General > Advanced UI/system tweaks… > Allow 10.14+ dark mode if enabled
 
 Project Defaults:
