@@ -80,7 +80,7 @@ Import Config:
 - Import the “HPL REAPER Config Full.ReaperConfigZip” file (Don’t unzip)
 - Apply
 
-When REAPER restarts you'll have to configure the launcher:
+When REAPER restarts you may have to configure the launcher, if not then skip this step:
 "Whoops! Couldn't load Lokasenna's GUI library v2 for Lua...
 - Hit "Okay" to close to pop-up
 - in the top bar, Actions > Show action list (shortcut for actions list is "?" or "shift + /")
