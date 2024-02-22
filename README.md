@@ -129,3 +129,7 @@ Project Defaults:
 ——UPDATES——
 
 I’ll keep this updated with updated keybindings and actions. There is a separate config file which only imports keybindings, mouse modifiers, and actions that you only need to update at will. If you import that keybindings and actions config file, you won’t need to repeat any of the other steps in the future.
+
+——ISSUES——
+
+Keybinds on Windows are still WIP. There is no equivalent to the cmd modifier so if anybody has any suggestions, feel free to message me.
