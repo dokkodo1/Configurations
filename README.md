@@ -126,7 +126,7 @@ Project Defaults:
 
 ——UPDATES——
 
-I’ll keep this updated with updated keybindings and actions. There is a separate config file which only imports keybindings, mouse modifiers, and actions that you only need to update at will. If you import that keybindings and actions config file, you won’t need to repeat any of the other steps in the future.
+I’ll keep this updated with updated keybindings and actions. There is a separate config file which only imports keybindings, mouse modifiers, and actions that you only need to update at will. If you import that keybindings and actions config file, you won’t need to repeat any of the install steps, however I would check the default paths in the preferences in case the text fields have reverted to my own paths.
 
 ——ISSUES——
 
