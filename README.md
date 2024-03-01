@@ -16,8 +16,8 @@ This is an absolute steal when compared to any other production software these d
 Install REAPER to default location and open it up and let it load, then close it.
 There’s a splash screen and a pop-up telling you that “REAPER is not free” etc. Just wait the 5 seconds and click “still evaluating”.
 
-Download SWS Extensions (x64):
-https://www.sws-extension.org
+[Download SWS Extensions](https://www.sws-extension.org) (x64):
+
 (ARM64 is only for Apple M1 or M2)
 
 [Download ReaPack](https://reapack.com) (x86 / 64-bit):
