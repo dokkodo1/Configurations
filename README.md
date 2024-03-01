@@ -3,17 +3,15 @@
 All of this only needs to be done once. Grab a cup of coffee, spend the 15 or so minutes it takes to go through this slowly and meticulously, and all will be well!
 Oh and remember... REAPER is not free! The devs are very generous in giving the community a fully-fledged indefinite trial for this incredible software. A personal use license is only 60USD and the commercial license is 225USD.
 This is an absolute steal when compared to any other production software these days. 
-Here's is a link to purchase your license!
+[Here's is a link to purchase your license!](http://reaper.fm/purchase.php)
 
-http://reaper.fm/purchase.php
 
 
 
 ——DOWNLOADS——
 
 
-Download REAPER:
-https://www.reaper.fm/download.php
+[Download REAPER](https://www.reaper.fm/download.php)
 
 Install REAPER to default location and open it up and let it load, then close it.
 There’s a splash screen and a pop-up telling you that “REAPER is not free” etc. Just wait the 5 seconds and click “still evaluating”.
@@ -22,8 +20,8 @@ Download SWS Extensions (x64):
 https://www.sws-extension.org
 (ARM64 is only for Apple M1 or M2)
 
-Download ReaPack (x86 / 64-bit):
-https://reapack.com
+[Download ReaPack](https://reapack.com) (x86 / 64-bit):
+
 
 
 ——INSTALLS——
