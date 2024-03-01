@@ -130,4 +130,5 @@ I’ll keep this updated with updated keybindings and actions. There is a separa
 
 ——ISSUES——
 
+MacOS allow 10.14+ dark mode may cause UI issues with certain plugins. I have only had this issue on Sonoma.
 Keybinds on Windows are still WIP. There is no equivalent to the cmd modifier so if anybody has any suggestions, feel free to message me.
